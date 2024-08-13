@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Ecommerce Flutter App UI</h1>
 
-<p id="description">_Note : The user AlfortiusIndustries showing in contributors section is my another account on Github. You can confirm it by looking at my another repository JobGenie there is also same user as contributor. So there is no contributor to this project except myself._ A modern and sleek eCommerce UI design built with Flutter. This app features a user-friendly interface with intuitive navigation product listings detailed product views a shopping cart and a secure checkout process. Ideal for developers looking to create or enhance an online shopping experience with customizable and responsive components.</p>
+<p id="description">Note : The user AlfortiusIndustries showing in contributors section is my another account on Github. You can confirm it by looking at my another repository JobGenie there is also same user as contributor. So there is no contributor to this project except myself. A modern and sleek eCommerce UI design built with Flutter. This app features a user-friendly interface with intuitive navigation product listings detailed product views a shopping cart and a secure checkout process. Ideal for developers looking to create or enhance an online shopping experience with customizable and responsive components.</p>
 
 <h2>🚀 Demo</h2>
 
