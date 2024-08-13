@@ -12,6 +12,7 @@
 
 Here're some of the project's best features:
 
+*   Animations
 *   Product Listing
 *   Favourites
 *   Profile
@@ -48,3 +49,5 @@ flutter run
 Technologies used in the project:
 
 *   Flutter
+*   User State Management - Provider
+*   Architecture Used - MVC
